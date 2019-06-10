@@ -2,14 +2,15 @@
   "name": "powerplantsandhouseholds",
   "version": "1.0.0",
   "description": "",
-  "main": "app/index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.2.0",
     "npm": "^6.9.0"
   }
 }
