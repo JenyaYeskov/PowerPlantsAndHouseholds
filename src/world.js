@@ -72,16 +72,3 @@ class World {
 }
 
 module.exports = World;
-
-// let w = new World();
-// let pp = w.createPowerPlant();
-// w.killPowerPlant(pp);
-// let pp2 = w.createPowerPlant();
-// let hh1 = w.createHousehold();
-// let hh2 = w.createHousehold();
-// let hh3 = w.createHousehold();
-// let hh4 = w.createHousehold();
-// let hh5 = w.createHousehold();
-//
-// let h = new Household();
-// console.log(h.isElectrified());

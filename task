@@ -69,7 +69,7 @@ class World {
 		throw new Error('Not Implemented');
 	}
 
-	householdHasEletricity(household) {
+	householdHasElectricity(household) {
 		throw new Error('Not Implemented');
 	}
 }
